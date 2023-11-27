@@ -3,10 +3,15 @@ font-family: sans-serif;
 text-align: center;
 color: white;
 }
-div.Headers{
+Source{
     font-family: sans-serif;
     text-align: center;
     color: white;
+}
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    color: white;  
 }
 body{
     background-color: rgb(11, 134, 138);
