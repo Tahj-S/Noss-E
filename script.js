@@ -30,5 +30,3 @@ function typeWriter() {
     setTimeout(typeWriter, 25);
  }
 }
-  typeWriter()
-}
