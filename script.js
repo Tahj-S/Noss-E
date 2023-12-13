@@ -6,7 +6,7 @@ function send() {
     userinput.value = "";
     var response = "I'm sorry, I don't understand. 🤔";
     if (message == "Hello") {
-        response = "Hi there!";
+        response = "Hi there! 👋";
     } else if (message == "How are you?") {
         response = "I'm doing well, thank you. 😁";
     } else if (message == "Who are you?") {

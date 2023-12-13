@@ -13,4 +13,8 @@ body{
     background-color: rgb(11, 134, 138);
     text-align: center;
 }
+button a{
+    text-decoration: none;
+    color: currentColor;
+}
 
