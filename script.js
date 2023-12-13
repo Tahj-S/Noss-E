@@ -24,7 +24,7 @@ function send() {
     } else if (message == "Can you speak Normally") {
         response = "It depends. 🙃";
     } else if (message == "What will we do Now") {
-        response = "It will be up to you 🫵 You can view and fork the repo by clicking the source code button. I just hope it will be avalible after archiving.";
+        response = "It will be up to you 🫵 You can view and fork the repo by clicking the source code button.";
     }
     
     var messageElement = document.createElement("p");
