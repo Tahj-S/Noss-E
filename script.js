@@ -23,12 +23,4 @@ function send() {
     chatbox.appendChild(messageElement);
     chatbox.appendChild(responseElement);
     chatbox.scrollTop = chatbox.scrollHeight;
-    
-};
-function typeWriter() {
-  if (i < response.length) {
-    responseElement.innerHTML += response.charAt(i);
-    i++;
-    setTimeout(typeWriter, 25);
- }
 }
