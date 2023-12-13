@@ -1,4 +1,5 @@
-MIT License
+## About Noss-E
+### MIT Lisence
 
 Copyright (c) 2023-2024 TahjaeDev
 
