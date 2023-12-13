@@ -15,6 +15,8 @@ function send() {
         response = "Sorry I cant make a video yet. 😥";
     } else if (message == "What is TahjaeDev's next big project?"){
         response = "I dont know but I hope it will be good. 😉";
+    } else if (message == "Joe"){
+        response = "Joe Mama. 🤣🤣";
     }
     
     var messageElement = document.createElement("p");
