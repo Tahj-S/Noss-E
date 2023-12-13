@@ -12,7 +12,9 @@ function send() {
     } else if (message == "Who are you?") {
         response = "I am Noss-E, an AI interface created by TahjaeDev, I can write stuff for you, but I am still in beta";
     } else if (message == "Make a Video")
-        response = "Sorry I cant make a video yet."
+        response = "Sorry I cant make a video yet. 😥";
+     } else if (message == "What is TahjaeDev's next big project?")
+        response = "I dont know but I hope it will be good. 😁"
     
     var messageElement = document.createElement("p");
     messageElement.innerHTML = "<strong>You:</strong> " + message;
