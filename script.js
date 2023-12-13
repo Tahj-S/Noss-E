@@ -19,6 +19,12 @@ function send() {
         response = "Joe Mama. 🤣🤣";
     } else if (message == "Sticking up ur Gyatt for the rizzler") {
         response = "wut the hell. 😐";
+    } else if (message == "Why are we still here") {
+        response = "Ya think Im down. 😡";
+    } else if (message == "Can you speak Normally") {
+        response = "It depends. 🙃";
+    } else if (message == "What will we do Now") {
+        response = "It will be up to you 🫵 You can view and fork the repo by clicking the source code button. I just hope it will be avalible after archiving.";
     }
     
     var messageElement = document.createElement("p");
