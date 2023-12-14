@@ -35,7 +35,10 @@ function send() {
         response = "GRRRRR. 🤬";    
     } else if (message == "GRRRRR. 🤬") {
         response = "Bruh";
+    } else if (message == "wut the Fuck") {
+        response = "HEY WATCH YOUR LANGUAGE. 🤯";
     }
+    
         var messageElement = document.createElement("p");
     messageElement.innerHTML = "<strong>You:</strong> " + message;
     var responseElement = document.createElement("p");
