@@ -25,9 +25,18 @@ function send() {
         response = "It depends. 🙃";
     } else if (message == "What will we do Now") {
         response = "It will be up to you 🫵 You can view and fork the repo by clicking the source code button.";
+    } else if (message == "wut the hell. 😐") {
+        response = "Are you copying me? 🤨";
+    } else if (message == "Are you copying me? 🤨") {
+        response = "AGAIN? 🤨";
+    } else if (message == "AGAIN? 🤨") {
+        response = "STOP IT. 😡";
+    } else if (message == "STOP IT. 😡") {
+        response = "GRRRRR. 🤬";    
+    } else if (message == "GRRRRR. 🤬") {
+        response = "Bruh";
     }
-    
-    var messageElement = document.createElement("p");
+        var messageElement = document.createElement("p");
     messageElement.innerHTML = "<strong>You:</strong> " + message;
     var responseElement = document.createElement("p");
     responseElement.innerHTML = "<strong>Noss-E:</strong> " + response;
