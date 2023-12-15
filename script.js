@@ -40,7 +40,7 @@ function send() {
     } else if (message == "Merry Christmas") {
         response = "Merry Christmas to you too. and have a happy new year. 🎅 ";
     } else if (message == "Have you heard of Christmas in July") {
-        response = "What is that. 😁";
+        response = "What is that. 📅";
     }
     
         var messageElement = document.createElement("p");
