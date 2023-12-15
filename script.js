@@ -38,7 +38,7 @@ function send() {
     } else if (message == "wut the Fuck") {
         response = "HEY WATCH YOUR LANGUAGE. 🤯";
     } else if (message == "Merry Christmas") {
-        response = "Merry Christmas to you too. and have a happy new year";
+        response = "Merry Christmas to you too. and have a happy new year. 🎅 ";
     }
     
         var messageElement = document.createElement("p");
