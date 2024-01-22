@@ -23,8 +23,6 @@ function send() {
         response = "Ya think Im down. 😡";
     } else if (message == "Can you speak Normally") {
         response = "It depends. 🙃";
-    } else if (message == "What will we do Now") {
-        response = "It will be up to you 🫵 You can view and fork the repo by clicking the source code button.";
     } else if (message == "wut the hell. 😐") {
         response = "Are you copying me? 🤨";
     } else if (message == "Are you copying me? 🤨") {
@@ -38,7 +36,7 @@ function send() {
     } else if (message == "wut the Fuck") {
         response = "HEY WATCH YOUR LANGUAGE. 🤯";
     } else if (message == "Merry Christmas") {
-        response = "Merry Christmas to you too. and have a happy new year. 🎅 ";
+        response = "Dude it's 2024 💀";
     } else if (message == "Have you heard of Christmas in July") {
         response = "What is that. 📅";
     }
